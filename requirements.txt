@@ -4,4 +4,4 @@ ipykernel
 langchain_community
 bs4
 pypdf
-arxiv
+arvix
