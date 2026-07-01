@@ -5,3 +5,4 @@ langchain_community
 bs4
 pypdf
 arvix
+python 3.10
