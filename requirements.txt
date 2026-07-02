@@ -10,3 +10,4 @@ langchain-text-splitters
 chromadb
 sentence_transformer
 langchain_huggingface
+faiss-cpu
