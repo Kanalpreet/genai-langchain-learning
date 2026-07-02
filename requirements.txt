@@ -4,5 +4,6 @@ ipykernel
 langchain_community
 bs4
 pypdf
-arvix
+arxiv
 PyMuPDFA
+langchain-text-splitters
