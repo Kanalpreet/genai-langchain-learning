@@ -13,3 +13,4 @@ langchain_huggingface
 faiss-cpu
 chromadb
 langchain_chroma
+langchain_groq
