@@ -14,3 +14,4 @@ faiss-cpu
 chromadb
 langchain_chroma
 langchain_groq
+langchain_core
